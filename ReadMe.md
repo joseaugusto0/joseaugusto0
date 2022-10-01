@@ -1,8 +1,10 @@
 <h1 align="center">Hello beautiful person <br>👋 😄 </h1>
 
 <h2 align="center">About me 👨‍💻</h2>
-Hi! My name is José Augusto Coura and I'm a technology enthusiast in Brazil (🇧🇷). I've started my path in hardware and software development in 2015, learning and working with automation and IT. From my previously works and studies, I started to work mostly in Python (in backend applications), that become my main development language. But in the last year I started to work with React framework, reaching the front-end development. <br>
-Actually searching to grow professionally and socially, looking for new adventures, peoples and experiences in general.
+<div style="font-size: 15px">
+Hi! My name is José Augusto Coura and I'm a technology enthusiast in Brazil (🇧🇷). I've started my path in hardware and software development in 2015, learning and working with automation and IT. From my previously works and studies, I started to work mostly in Python (in backend applications), that become my main development language. But in the last year I started to work with React framework, reaching the front-end development. <br><br>
+</div>
+<b style="font-size: 15px">Actually searching to grow professionally and socially, looking for new adventures, peoples and experiences in general.</b>
 
 <br>
 <br>
