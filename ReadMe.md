@@ -32,5 +32,7 @@ Actually searching to grow professionally and socially, looking for new adventur
 <div align="center">
 <h2>Want to run this path together? Contact me!</h2>
 <br>
-<a href="https://www.linkedin.com/in/jaugustocoura/"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="linkedin"></a>
+<a href="https://www.linkedin.com/in/jaugustocoura/" target="_blank">
+    <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="linkedin">
+</a>
 </div>
